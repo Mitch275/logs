@@ -1,4 +1,6 @@
 {
     "whitelisted_users": [],
-    "blacklisted_users": []
+    "blacklisted_users": [
+        1158085809400975411
+    ]
 }
