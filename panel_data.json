@@ -45,6 +45,15 @@
       "timestamp": "2025-03-02 20:55:53",
       "ip_address": "unknown",
       "webhook_sent": true
+    },
+    {
+      "panel_id": "05021FB6",
+      "user_id": 1336489586276175902,
+      "username": null,
+      "discriminator": null,
+      "timestamp": "2025-03-02 20:59:49",
+      "ip_address": "unknown",
+      "webhook_sent": true
     }
   ]
 }
