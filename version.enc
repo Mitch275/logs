@@ -1,8 +1,0 @@
-version_data = {
-    "version": "1.0.0",
-    "update_url": "https://raw.githubusercontent.com/Mitch275/logs/main/latest.py",
-    "changelog": ["Initial release"]
-}
-
-encrypted = encrypt_version_data(version_data)
-print(encrypted)
