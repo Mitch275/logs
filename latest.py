@@ -66,7 +66,8 @@ def check_for_updates():
                         time.sleep(2)  # Give user time to read message
                         
                         # Restart the script
-                        os.execv(sys.executable, ['python'] + sys.argv)
+                        pause = input("Press Enter to restart...")
+                        print ("restart the launcher...")
                         return True
                 except Exception as e:
                     print(f"Update error: {e}")
