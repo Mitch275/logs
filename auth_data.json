@@ -1,12 +1,4 @@
 {
-  "whitelisted_users": [],
-  "blacklisted_users": [
-    1336489586276175902
-  ],
-  "panel_mappings": {
-    "1336489586276175902": "3091F5D5"
-  },
-  "panel_timestamps": {
-    "1336489586276175902": "2025-03-31T22:20:14.523562"
-  }
+    "whitelisted_users": [],
+    "blacklisted_users": []
 }
